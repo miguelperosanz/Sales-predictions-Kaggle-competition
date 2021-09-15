@@ -4,4 +4,4 @@ This is the notebook with the code that I used for participating in the kaggle c
 
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
-I achieved a RMSE of 1.5. The first qualified has achieved a RMSE of 0.7. The deadline for presenting the final result is still long, so I will try to improve the RMSE by creating new features.
+I achieved a RMSE of 1.5. The first qualified has achieved a RMSE of 0.7. The deadline for presenting the final result is still long, so I will try to improve the RMSE by creating new features. For details about my code please check the coments from the notebook.
